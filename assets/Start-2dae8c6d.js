@@ -1,4 +1,4 @@
-import{_ as a,d as n}from"./index-0c51a06c.js";const t={},e=n(`<h1 data-v-376a5750>引用</h1><span data-v-376a5750>JinWei-UI</span><h2 data-v-376a5750>完整引用</h2><pre data-v-376a5750>    <code data-v-376a5750>
+import{_ as a,d as n}from"./index-b58f453c.js";const t={},e=n(`<h1 data-v-376a5750>引用</h1><span data-v-376a5750>JinWei-UI</span><h2 data-v-376a5750>完整引用</h2><pre data-v-376a5750>    <code data-v-376a5750>
     import &#39;jinwei-ui/dist/lib/jinwei.css&#39;
     import { createApp } from &#39;vue&#39;
     import App from &#39;./App.vue&#39;
